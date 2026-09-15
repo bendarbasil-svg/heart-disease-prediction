@@ -61,7 +61,7 @@ For comparison, a standard logistic regression (threshold 0.5, no class balancin
 
 Open the notebook in Google Colab (no local setup required):
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bendarbasil-svg/heart-disease-prediction/blob/main/heart-disease-prediction.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bendarbasil-svg/heart-disease-prediction/blob/main/heart_disease_prediction.ipynb)
 
 ## Author
 
